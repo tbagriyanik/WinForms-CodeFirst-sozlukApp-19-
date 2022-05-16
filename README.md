@@ -1,0 +1,2 @@
+# sozlukApp
+ 
